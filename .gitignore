@@ -1,3 +1,4 @@
 *.parquet
 *.npy
 cache/
+.DS_Store
